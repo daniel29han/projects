@@ -1,5 +1,5 @@
-# yelp-rating-prediction
-*This is the repository of a hypothetical project where, given a set of information about a user and a local business, the user's rating on the business is predicted on a continuous scale between 0 and 5.*
+# Yelp Rating Prediction
+*This is a hypothetical project where, given a set of information about a user and a local business, the user's rating on the business is predicted on a continuous scale between 0 and 5.*
 <br><br>
 
 Yelp is an online platform where users can rate and write reviews on local businesses. Users can also browse the website and/or search local businesses of their interest.
