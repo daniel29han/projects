@@ -4,5 +4,5 @@ This repository contains the projects I have worked on or am currently on. As I 
 
 As mentioned earlier, my program ends this December and I will be equipped with all the necessary knowledge, skills and techniques that a Data Scientist must have. In the meantime, please check out my projects and feel free to connect with me on Linkedin or via email!
 
-email: daniel29han@gmail.com
+email: daniel29han@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/daniel-han-337706b3/
