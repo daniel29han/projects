@@ -1,5 +1,5 @@
 # Welcome to My Portfolio. I'm Daniel!
-======
+
 ## About Me
 My name is Daniel, who was a forensic engineer until a couple months ago. Now I am an aspiring Data Scientist in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career.
 
