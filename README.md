@@ -8,7 +8,9 @@ And then one day I met a Data Scientist whose job was similar to mine - to help 
 
 Fast forward to today, I am now an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>    
 ## `about this portfolio`
-This portfolio contains the projects I have completed so far and will continuously work on for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project. As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit here, you will find a newer, better version of my projects!
+This portfolio highlights the projects I am working on and will  for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project.
+
+As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit here, you will find a newer, better version of my projects!
 
 My program ends this December and by then I will be equipped with all the necessary knowledge, skills and techniques that a great Data Scientist must have. In the meantime, please check out my projects and feel free to connect with me on Linkedin or via email!
 
@@ -32,16 +34,23 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
 - Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and user-defined element-wise functions.<br><br>
 
-*Figure 1. Uncleaned Columns of Business Table*<br>
+*Uncleaned Columns of Business Table*<br>
 <img src = "https://user-images.githubusercontent.com/53546728/184282670-4ff78618-fd7e-4d63-af87-79cf826f8061.jpg" width="300" height="300">
 <br><br>
 
 ### `exploratory data analysis (eda)`
 
-- The cleaned data are reviewed as to its general distribution and effects to the rating.<br><br>
-- 
+- The cleaned data are reviewed for its general distribution and correlations with the rating.<br><br>
+- Datetime variables are decomposed to look for any trend and/or seasonality.<br><br>
+- Geographical information is visualized on the map. <br><br> 
 
+*Correlation Heatmap for categorical/numeric variables*<br>
 <img src="https://user-images.githubusercontent.com/53546728/184282565-9c625491-2378-4bae-825c-008936ed2af4.png" width="400" height="400">
+<br><br>
+
+*Time-Series Decomposition*<br>
+<img src="https://user-images.githubusercontent.com/53546728/184382731-6c6a4c33-bf46-4572-a6aa-ad7ed1c9d002.jpg" width="600" height="400">
+
 
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
 <sub>**NLP | Python | EDA | Sentiment Analysis | Machine Learning | Classification Model | Agile Methodology | Git**</sub>
