@@ -14,8 +14,8 @@ As the course progresses, I will be actively adding to and modifying these proje
 
 My program ends this December and by then I will be equipped with all the necessary knowledge, skills and techniques that a great Data Scientist must have. In the meantime, please check out my projects and feel free to connect with me on Linkedin or via email!
 
-email: daniel29han@gmail.com <br>
-LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedin.com/in/daniel-han-337706b3/)
+`email`: daniel29han@gmail.com <br>
+`LinkedIn`: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedin.com/in/daniel-han-337706b3/)
 <br><br>
 ## [Project 1 - Yelp Rating Prediction and Recommender System](https://github.com/daniel29han/portfolio/tree/main/Projects/Yelp) 
 <sub>**Data Acquisition | Data Cleaning | Regular Expressions | Visualizations | Python | EDA | Time Series | Machine Learning | Regression | Git**</sub>
@@ -34,7 +34,7 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
 - Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and user-defined element-wise functions.<br><br>
 
-*Uncleaned Columns of Business Table*<br>
+**Uncleaned Columns of Business Table**<br>
 <img src = "https://user-images.githubusercontent.com/53546728/184282670-4ff78618-fd7e-4d63-af87-79cf826f8061.jpg" width="300" height="300">
 <br><br>
 
@@ -44,13 +44,15 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 - Datetime variables are decomposed to look for any trend and/or seasonality.<br><br>
 - Geographical information is visualized on the map. <br><br> 
 
-*Correlation Heatmap for categorical/numeric variables*<br>
+**Correlation Heatmap for categorical/numeric variables**<br>
 <img src="https://user-images.githubusercontent.com/53546728/184282565-9c625491-2378-4bae-825c-008936ed2af4.png" width="400" height="400">
-<br><br>
 
-*Time-Series Decomposition*<br>
+**Time-Series Decomposition**<br>
 <img src="https://user-images.githubusercontent.com/53546728/184382731-6c6a4c33-bf46-4572-a6aa-ad7ed1c9d002.jpg" width="600" height="400">
 
+**Geographic Information**<br>
+<img src="https://user-images.githubusercontent.com/53546728/184385745-ffc06991-5a0e-43c5-9916-3b2f66e6245f.jpg" width="600" height="300">
+<br><br>
 
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
 <sub>**NLP | Python | EDA | Sentiment Analysis | Machine Learning | Classification Model | Agile Methodology | Git**</sub>
