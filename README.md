@@ -1,15 +1,14 @@
-# Welcome to My Portfolio. I'm Daniel!
+# Welcome to my `portfolio`. I'm Daniel!
 
 ## About Me
-My name is Daniel Han and I was a forensic engineer until a few months ago. With my structural engineering background, I investigated many buildings for insurance claims 
-for the adjustors to make informed decisions on the coverage amounts or whether a claim is fraudulent.
+My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims for the adjustors to make informed decisions on the coverage amounts or whether a claim is fraudulent.
 
-Now I am an aspiring Data Scientist in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about the things I can do with what I've learned, I decided that I wanted to create this portfolio to showcase my work.    
+Now, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.    
 
 ## About This Portfolio
-This portfolio contains the projects I have completed so far and will continuously work on for the next few months. As I am currently 4 months into my program ending in December, these projects do not yet encompass the entire aspects of a Data Science/Analysis project. As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit this repository, you will find a newer, better version of my projects!
+This portfolio contains the projects I have completed so far and will continuously work on for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project. As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit here, you will find a newer, better version of my projects!
 
-As mentioned earlier, my program ends this December and by then I will be equipped with all the necessary knowledge, skills and techniques that a great Data Scientist must have. In the meantime, please check out my projects and feel free to connect with me on Linkedin or via email!
+My program ends this December and by then I will be equipped with all the necessary knowledge, skills and techniques that a great Data Scientist must have. In the meantime, please check out my projects and feel free to connect with me on Linkedin or via email!
 
 email: daniel29han@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/daniel-han-337706b3/
