@@ -1,11 +1,11 @@
-# `Welcome to my portfolio`! 
+# `welcome to dan's portfolio!`
 <br><br>
-
 ## `about me`
-My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims for the adjustors to make informed decisions on the coverage amounts or whether a claim is fraudulent.
+My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims so that the adjustors can make informed decisions on the coverage amounts or whether a claim is fraudulent.
 
-Now, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.    
+And then one day I met a Data Scientist who did a similar job as mine - to help his client make informed decisions, but in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - were often made based on `data`!  
 
+Fast forward to today, I am now an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>    
 ## `about this portfolio`
 This portfolio contains the projects I have completed so far and will continuously work on for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project. As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit here, you will find a newer, better version of my projects!
 
@@ -23,11 +23,9 @@ LinkedIn: https://www.linkedin.com/in/daniel-han-337706b3/
 - In this hypothetical project, upwards of 6 million consumer reviews on Yelp are analyzed to study the attributes of successful local businesses and understand the consumer preferences.<br><br>
 - Also, given the user information and local business, the user's rating on the business is predicted on a continuous scale between 0 and 5.<br><br>
 - Finally, a recommender system will be created so that users with similar preferences are grouped and recommended local businesses accordingly.
-
-
+<br><br>
 ### `data cleaning`
-- A hypothetical project where, 
-- The original data is provided in JSON format and requires somewhat extensive cleaning using regular expressions (regex).
+- The original data is provided in json format and requires conversion to a more workable format (i.e. csv).
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one. 
 - 
 
