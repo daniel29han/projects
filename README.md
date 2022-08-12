@@ -1,4 +1,4 @@
-# Welcome to my `portfolio`. I'm Daniel!
+# `Welcome to my portfolio`!
 
 ## About Me
 My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims for the adjustors to make informed decisions on the coverage amounts or whether a claim is fraudulent.
@@ -18,8 +18,8 @@ LinkedIn: https://www.linkedin.com/in/daniel-han-337706b3/
 <br>
 #### Overview
 - A hypothetical project where, given the user information and local business, the user's rating on the business is predicted on a continuous scale between 0 and 5.
-- The original data is provided in JSON format and requires somewhat extensive cleaning using regular expressions (RegEx).
-- Multiple schemas - business, user, review, 
+- The original data is provided in JSON format and requires somewhat extensive cleaning using regular expressions (regex).
+- Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one. 
 - A recommender system will be created so that users with similar preferences are grouped and recommended local businesses accordingly.
 
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
