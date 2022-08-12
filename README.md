@@ -25,13 +25,18 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 - Also, given a set of information about a user and local business, the user's likely rating on the business is predicted on a continuous scale between 0 and 5.<br><br>
 - Finally, a recommender system will be created based on collaborative filtering algorithm. (This is what I am studying and will update soon!)
 <br><br>
+
 ### `data cleaning`
+
 <img align="right" src="https://user-images.githubusercontent.com/53546728/184281470-467dc406-b7d6-47c8-b8d8-d58fdcf7be0a.jpg" width="300" height="250">
 
 - The original data is provided in json format and requires conversion to a more workable format (i.e. csv).<br><br>
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
 - Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and many element-wise functions.<br><br>
+
 ### `exploratory data analysis (eda)`
+
+<img align="left" src="https://user-images.githubusercontent.com/53546728/184281470-467dc406-b7d6-47c8-b8d8-d58fdcf7be0a.jpg" width="300" height="250">
 
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
 <sub>**NLP | Python | EDA | Sentiment Analysis | Machine Learning | Classification Model | Agile Methodology | Git**</sub>
