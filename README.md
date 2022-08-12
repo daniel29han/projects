@@ -4,7 +4,7 @@
 ## `about me`
 My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims so that the adjustors can make informed decisions on the coverage amounts or whether a claim is fraudulent.
 
-And then one day I met a Data Scientist who did a similar job as mine - to help his client make informed decisions, but in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - were often made based on `data`!  
+And then one day I met a Data Scientist whose job was similar to mine - to help his client make informed decisions - but was done in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - could be made based on `data`!  
 
 Fast forward to today, I am now an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>    
 ## `about this portfolio`
@@ -30,14 +30,18 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 
 - The original data is provided in json format and requires conversion to a more workable format (i.e. csv).<br><br>
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
-- Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and many element-wise functions.<br><br>
+- Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and user-defined element-wise functions.<br><br>
+
+*Figure 1. Uncleaned Columns of Business Table*<br>
 <img src = "https://user-images.githubusercontent.com/53546728/184282670-4ff78618-fd7e-4d63-af87-79cf826f8061.jpg" width="300" height="300">
 <br><br>
 
 ### `exploratory data analysis (eda)`
-![download_1](https://user-images.githubusercontent.com/53546728/184282565-9c625491-2378-4bae-825c-008936ed2af4.png)
 
-<img align="left" src="https://user-images.githubusercontent.com/53546728/184281470-467dc406-b7d6-47c8-b8d8-d58fdcf7be0a.jpg" width="300" height="250">
+- The cleaned data are reviewed as to its general distribution and effects to the rating.<br><br>
+- 
+
+<img src="https://user-images.githubusercontent.com/53546728/184282565-9c625491-2378-4bae-825c-008936ed2af4.png" width="400" height="400">
 
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
 <sub>**NLP | Python | EDA | Sentiment Analysis | Machine Learning | Classification Model | Agile Methodology | Git**</sub>
