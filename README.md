@@ -28,13 +28,14 @@ LinkedIn: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedi
 
 ### `data cleaning`
 
-<img align="right" src="https://user-images.githubusercontent.com/53546728/184281470-467dc406-b7d6-47c8-b8d8-d58fdcf7be0a.jpg" width="300" height="250">
-
 - The original data is provided in json format and requires conversion to a more workable format (i.e. csv).<br><br>
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
 - Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and many element-wise functions.<br><br>
+<img src = "https://user-images.githubusercontent.com/53546728/184282670-4ff78618-fd7e-4d63-af87-79cf826f8061.jpg" width="300" height="300">
+<br><br>
 
 ### `exploratory data analysis (eda)`
+![download_1](https://user-images.githubusercontent.com/53546728/184282565-9c625491-2378-4bae-825c-008936ed2af4.png)
 
 <img align="left" src="https://user-images.githubusercontent.com/53546728/184281470-467dc406-b7d6-47c8-b8d8-d58fdcf7be0a.jpg" width="300" height="250">
 
