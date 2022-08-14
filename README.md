@@ -41,7 +41,7 @@ My program ends this December and by then I will be equipped with all the necess
 
 - The original data is provided in json format and requires conversion to a more workable format (i.e. csv).<br><br>
 - Multiple schemas - business, user, review, check-ins - are cleaned, reformatted and combined into one.<br><br>
-- Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contained many typos and exceptions, which called for extensive cleaning and normalization. This done by using `regex` patterns and user-defined element-wise functions.<br><br>
+- Some critical information - namely the business hours, categories, and attributes - are input as texts in somewhat random manner and contains many typos and exceptions, which calls for extensive cleaning and normalization. This done by using `regex` patterns and user-defined element-wise functions.<br><br>
 
 *Uncleaned Columns of Business Table*<br>
 <img src = "https://user-images.githubusercontent.com/53546728/184282670-4ff78618-fd7e-4d63-af87-79cf826f8061.jpg" width="300" height="300">
