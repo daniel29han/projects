@@ -4,7 +4,7 @@
 ## `about me`
 My name is Daniel Han and I was a forensic engineer until just a few months ago. With my structural engineering background, I investigated many buildings for insurance claims so that the adjustors can make informed decisions on the coverage amounts or whether a claim is fraudulent.
 
-One day I had a chance to speak to a Data Scientist whose job was similar to mine - to help his client make informed decisions - but I learned that his job was done in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - could be made with `data`, and not by me investigating everytime!  
+One day I had a chance to speak to a Data Scientist whose job was similar to mine - to help his client make informed decisions - but I learned that his job was done in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - could be made with `data`, instead of investigating everytime!  
 
 Today, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>    
 ## `about this portfolio`
