@@ -73,7 +73,7 @@ My program ends this December and by then I will be equipped with all the necess
 *Questions before Processing*<br>
 ![Screenshot 2022-08-14 093106](https://user-images.githubusercontent.com/53546728/184539462-7063abab-2328-4973-964b-ef2d2891f99e.jpg) <br><br>
 *Questions after Processing*<br>
-![Screenshot 2022-08-14 093240](https://user-images.githubusercontent.com/53546728/184539515-cd294e3b-688f-4e86-9b52-4c937a5cd4eb.jpg)
+![Screenshot 2022-08-14 102424](https://user-images.githubusercontent.com/53546728/184541472-4457de8a-df17-4b5b-95f6-2309dbc91622.jpg)
 <br><br>
 ### `exploratory data analysis`
 - Reviewed the words frequently appearing and/or relevant to the context using the bag-of-word and Tf-Idf mechanism.<br><br>
