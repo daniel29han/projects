@@ -20,6 +20,7 @@ My program ends this December and by then I will be equipped with all the necess
 ## [Project 1 - Yelp Rating Prediction and Recommender System](https://github.com/daniel29han/portfolio/tree/main/Projects/Yelp) 
 <sub>**Data Acquisition | Data Cleaning | Regular Expressions | Visualizations | Python | EDA | Time Series | Machine Learning | Regression | Git**</sub>
 <br>
+
 ### `overview`
 - Yelp is an online platform where users can rate and write reviews on local businesses. Users can also browse the website and/or search local businesses of their interest.<br><br>
 - To facilitate the user's browsing on Yelp's website, this project aims to recommend businesses to every user that they might enjoy.<br><br>
@@ -27,10 +28,12 @@ My program ends this December and by then I will be equipped with all the necess
 - Also, given a set of information about a user and local business, the user's likely rating on the business is predicted on a continuous scale between 0 and 5.<br><br>
 - Finally, a recommender system will be created based on collaborative filtering algorithm. (This is what I am studying and will update soon!)
 <br><br>
+
 ### `why this project?`
 - To improve user experience with the service by reducing browing time and effort and leave the impression that the service provider (Yelp) knows exactly what the users want - even when the users don't know themselves!<br><br>
 - To better understand how Data Science can be utilized to improve customer satisfaction in the commercial setting.
 <br><br>
+
 ### `data cleaning`
 
 - The original data is provided in json format and requires conversion to a more workable format (i.e. csv).<br><br>
@@ -57,16 +60,19 @@ My program ends this December and by then I will be equipped with all the necess
 ## [Project 2 - Quora Classification: Sincere or Insincere Question?](https://github.com/daniel29han/portfolio/tree/main/Projects/Quora)
 <sub>**NLP | Python | EDA | Sentiment Analysis | Machine Learning | Classification Model | Agile Methodology | Git**</sub>
 <br>
+
 ### `overview`
 - Quora is a social question-and-answer website based in Mountain View, California, where users can collaborate by editing questions and commenting on answers that have been submitted by other users.<br><br>
 - While the convenience that anyone can post and edit questions on the forum allows users to dynamically engage in the service, the downside is that some users may post insincere questions which would compromise the reliability of the website and/or degrade other groups of individuals.<br><br>
 - In this hypothetical project, the characteristics of insincere questions on Quora are studied using machine learning techniques, and a classification model predicting whether or not a question in sincere is created based on the underlying logic.
 <br><br>
+
 ### `why do this project?`
 - To study what characteristics of language imply the insincerity of a question.<br><br>
 - To automate the process of classifiction such that, given a question, my project outputs the result instantly.<br><br>
 - To use Data Science to promote healthy web environment and protect vulnerable groups from toxic contents.
 <br><br>
+
 ### `text processing`
 - Cleaned the questions of punctuations, contractions, stopwords (i.e. words that do not contribute to the sentiment of a document such as 'a(n)', 'is'), etc.
 - Through further processing techniques, converted each question in the dataset into 'tokens' of words (i.e., Tokenization), which is a more ideal form for exploratory data analysis and modelling.<br><br>
@@ -75,6 +81,7 @@ My program ends this December and by then I will be equipped with all the necess
 *Questions after Processing*<br>
 ![Screenshot 2022-08-14 102424](https://user-images.githubusercontent.com/53546728/184541472-4457de8a-df17-4b5b-95f6-2309dbc91622.jpg)
 <br><br>
+
 ### `exploratory data analysis`
 - Reviewed the words frequently appearing and/or relevant to the context using the bag-of-word and Tf-Idf mechanism.<br><br>
 - Displayed frequent & relevant words using WordCloud.<br><br>
@@ -83,6 +90,7 @@ My program ends this December and by then I will be equipped with all the necess
 *Words Frequently Appearing in and Relavant to Insincere Questions*<br>
 <img src="https://user-images.githubusercontent.com/53546728/184539721-d7a77304-5794-4219-b4e3-ea6697e15a32.jpg" width="500" height="250">
 <br><br>
+
 ### `modelling`
 - Two different algorithms, Tf-Idf and Word2Vec, were considered for converting words to digital inputs.<br><br>
 - Several  classification algorithims, namely Multinomial Naive Bayes, Random Forest, and Logistic Regression, were considered.<br><br>
@@ -94,5 +102,5 @@ My program ends this December and by then I will be equipped with all the necess
 - Using the classification model, the test set of questions are classified as either sincere or insincere.<br><br>
 
 *Questions Classified as Insincere based on Classification Model*<br>
-<img src="https://user-images.githubusercontent.com/53546728/184541701-343f752d-9151-4180-b838-26594cb49653.jpg" width="1000" height="400">
+<img src="https://user-images.githubusercontent.com/53546728/184541701-343f752d-9151-4180-b838-26594cb49653.jpg" width="1000" height="250">
 
