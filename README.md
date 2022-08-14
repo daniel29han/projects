@@ -76,4 +76,23 @@ My program ends this December and by then I will be equipped with all the necess
 ![Screenshot 2022-08-14 093240](https://user-images.githubusercontent.com/53546728/184539515-cd294e3b-688f-4e86-9b52-4c937a5cd4eb.jpg)
 <br><br>
 ### `exploratory data analysis`
-- 
+- Reviewed the words frequently appearing and/or relevant to the context using the bag-of-word and Tf-Idf mechanism.<br><br>
+- Displayed frequent & relevant words using WordCloud.<br><br>
+- It was found that the words associated with insincere questions were largely related to race, religions, politics, sex, and violence.<br><br>
+
+*Words Frequently Appearing in and Relavant to Insincere Questions*<br>
+<img src="https://user-images.githubusercontent.com/53546728/184539721-d7a77304-5794-4219-b4e3-ea6697e15a32.jpg" width="500" height="250">
+<br><br>
+### `modelling`
+- Two different algorithms, Tf-Idf and Word2Vec, were considered for converting words to digital inputs.<br><br>
+- Several  classification algorithims, namely Multinomial Naive Bayes, Random Forest, and Logistic Regression, were considered.<br><br>
+- Performances of the different models are compared with confusion matrix and the best performing model is selected.<br><br>
+
+![Screenshot 2022-08-14 100102](https://user-images.githubusercontent.com/53546728/184540547-2f927be3-34b5-4a81-87bc-c55b766c2f14.jpg)<br><br>
+
+### `testing`
+- Using the classification model, the test set of questions are classified as either sincere or insincere.<br><br>
+
+*Questions Classified as Insincere based on Classification Model*<br>
+![Screenshot 2022-08-14 100446](https://user-images.githubusercontent.com/53546728/184540767-5825024b-deba-47cc-a8e4-18e3134911ea.jpg)
+
