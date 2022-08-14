@@ -51,7 +51,7 @@ My program ends this December and by then I will be equipped with all the necess
 
 - The cleaned data are reviewed for its general distribution and correlations with the rating.<br><br>
 - Datetime variables are decomposed to look for any trend and/or seasonality.<br><br>
-- Geographical information is visualized on the map. <br><br> 
+- The mean and median ratings given in the states of the United States are compared. <br><br> 
 
 *Time-Series Decomposition*<br>
 <img src="https://user-images.githubusercontent.com/53546728/184382731-6c6a4c33-bf46-4572-a6aa-ad7ed1c9d002.jpg" width="600" height="400">
@@ -77,7 +77,7 @@ My program ends this December and by then I will be equipped with all the necess
 <br><br>
 
 ### `text processing`
-- Cleaned the questions of punctuations, contractions, stopwords (i.e. words that do not contribute to the sentiment of a document such as 'a(n)', 'is'), etc.
+- Cleaned the questions of punctuations, contractions, stopwords (i.e. words that do not contribute to the sentiment of a document such as 'a(n)', 'is'), etc.<br><br>
 - Through further processing techniques, converted each question in the dataset into 'tokens' of words (i.e., Tokenization), which is a more ideal form for exploratory data analysis and modelling.<br><br>
 *Questions before Processing*<br>
 ![Screenshot 2022-08-14 093106](https://user-images.githubusercontent.com/53546728/184539462-7063abab-2328-4973-964b-ef2d2891f99e.jpg) <br><br>
