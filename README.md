@@ -32,7 +32,7 @@ My program ends this December and by then I will be equipped with all the necess
 <br><br>
 
 ### `why this project?`
-- To study the characteristics of users and businesses leading to good experience and eventually good reviews
+- To study the characteristics of users and businesses leading to good experience and eventually good reviews.<br><br>
 - To improve user experience with the service by reducing browing time and effort and leave the impression that the service provider (Yelp) knows exactly what the users want - even when the users don't know themselves!<br><br>
 - To better understand how Data Science can be utilized to improve customer satisfaction in the commercial setting.
 <br><br>
