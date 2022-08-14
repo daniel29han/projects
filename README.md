@@ -94,5 +94,5 @@ My program ends this December and by then I will be equipped with all the necess
 - Using the classification model, the test set of questions are classified as either sincere or insincere.<br><br>
 
 *Questions Classified as Insincere based on Classification Model*<br>
-![Screenshot 2022-08-14 100446](https://user-images.githubusercontent.com/53546728/184540767-5825024b-deba-47cc-a8e4-18e3134911ea.jpg)
+<img src="https://user-images.githubusercontent.com/53546728/184540767-5825024b-deba-47cc-a8e4-18e3134911ea.jpg" width="1000" height="600">
 
