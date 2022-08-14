@@ -9,7 +9,7 @@ One day I had a chance to speak to a Data Scientist whose job was similar to min
 Today, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>
 
 ## `about this portfolio`
-This portfolio highlights the projects I am working on and will  for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project.
+This portfolio highlights the projects I am working on and will  for the next few months. As I am yet halfway through my program, these projects may not yet encompass the entire aspects of a Data Science/Analysis project.
 
 As the course progresses, I will be actively adding to and modifying these projects. That means, everytime you visit here, you will find a newer, better version of my projects!
 
