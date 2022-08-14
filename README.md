@@ -6,7 +6,8 @@ My name is Daniel Han and I was a forensic engineer until just a few months ago.
 
 One day I had a chance to speak to a Data Scientist whose job was similar to mine - to help his client make informed decisions - but I learned that his job was done in a completely different way. I was fascinated by the fact that many decisions in the business settings - perhaps even the ones I helped my client make - could be made with `data`, instead of investigating everytime!  
 
-Today, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>    
+Today, I am an aspiring Data Scientist enrolled in a Bootcamp at [BrainStation](https://brainstation.io/course/online/remote-data-science-bootcamp) to embark on a new journey in my career. Excited about all the things I can do with what I've learned, I have already started a few projects which I decided to showcase here.<br><br>
+
 ## `about this portfolio`
 This portfolio highlights the projects I am working on and will  for the next few months. As I am yet halfway through my program, these projects do not yet encompass the entire aspects of a Data Science/Analysis project.
 
@@ -17,6 +18,7 @@ My program ends this December and by then I will be equipped with all the necess
 `email`: daniel29han@gmail.com <br>
 `LinkedIn`: [https://www.linkedin.com/in/daniel-han-337706b3/](https://www.linkedin.com/in/daniel-han-337706b3/)
 <br><br>
+
 ## [Project 1 - Yelp Rating Prediction and Recommender System](https://github.com/daniel29han/portfolio/tree/main/Projects/Yelp) 
 <sub>**Data Acquisition | Data Cleaning | Regular Expressions | Visualizations | Python | EDA | Time Series | Machine Learning | Regression | Git**</sub>
 <br>
