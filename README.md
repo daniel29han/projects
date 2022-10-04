@@ -31,7 +31,7 @@ My program ends this December and by then I will be equipped with all the necess
 - Finally, a recommender system will be created based on collaborative filtering algorithm. (This is what I am studying and will update soon!)
 <br><br>
 
-### `why this project?`
+### `why did i do this project?`
 - To study the characteristics of users and businesses leading to good experience and eventually good reviews.<br><br>
 - To improve user experience with the service by reducing browing time and effort and leave the impression that the service provider (Yelp) knows exactly what the users want - even when the users don't know themselves!<br><br>
 - To better understand how Data Science can be utilized to improve customer satisfaction in the commercial setting.
@@ -70,7 +70,7 @@ My program ends this December and by then I will be equipped with all the necess
 - In this hypothetical project, the characteristics of insincere questions on Quora are studied using machine learning techniques, and a classification model predicting whether or not a question in sincere is created based on the underlying logic.
 <br><br>
 
-### `why do this project?`
+### `why did i do this project?`
 - To study what characteristics of language signify the insincerity of a question.<br><br>
 - To automate the process of classifiction such that, given a question, my project outputs the result instantly.<br><br>
 - To use Data Science to promote healthy web environment and protect vulnerable groups from toxic contents.
